@@ -1,20 +1,14 @@
 {
   "releaseList": [{
-    "version": "ALPHA.00",
-    "title": "Initial Prototype of the 1 Nation System",
+    "version": "Version 1.9",
+    "title": "Building out the basic system with Angular 2",
     "releasedate": "09/01/2017",
     "description": "This is initial setup of the one nation mock up system"
   },
   {
-    "version": "ALPHA.01",
-    "title": "Initial static engine setup for one nation",
-    "releasedate": "10/16/2017",
-    "description": "Static Version of 1 Nation to see prototype in action"
-  },
-  {
-    "version": "ALPHA",
-    "title": "Angular 5 Prototype system with Material 2",
-    "releasedate": "10/16/2017",
-    "description": "Leveraging Material 2 and Angular 5 this prototype will move to a more interactive system with server side engine systems run by models and services."
+    "version": "Version 2.0",
+    "title": "Initial Static version of Alloy",
+    "releasedate": "01/20/2017",
+    "description": "Built with Angular 5"
   }]
 }
